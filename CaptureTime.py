@@ -4,12 +4,12 @@ import csv
 class CaptureTime:
     def __init__(self):
         self.running = True
-        self.pressTime = None
-        self.releaseTime = None
+        #self.pressTime = None
+        #self.releaseTime = None
         self.password = ".tie5Roanl"
         self.dicTimes = dict()
         self.user = None
-        self.entryFreq = 2
+        self.entryFreq = 0
         self.entryCount = 1
         self.passOk = None
         self.dicKeystrokesTimes = None
@@ -20,12 +20,12 @@ class CaptureTime:
     
     def __call__(self):
         self.running = True
-        self.pressTime = None
-        self.releaseTime = None
+        #self.pressTime = None
+        #self.releaseTime = None
         self.password = ".tie5Roanl"
         self.dicTimes = dict()
         self.user = None
-        self.entryFreq = 2
+        self.entryFreq = 0
         self.entryCount = 1
         self.passOk = None
         self.dicKeystrokesTimes = None

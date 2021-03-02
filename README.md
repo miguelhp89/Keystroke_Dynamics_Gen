@@ -1,5 +1,5 @@
 # Keystroke_Dynamics_Gen
-This code is inspired by the one located in https://github.com/nileshprasad137/keystroke-dynamics-datagen but some changes were done. 
+This code was inspired by the one located in https://github.com/nileshprasad137/keystroke-dynamics-datagen but some immprovements were done. 
 
 # Improvements
 * Bug fixing: 
